@@ -9,10 +9,10 @@
 </h6>
 
 <h6 align="center">
-	<a href="https://linkedin.com/in/Superp0sit1on">
+	<a href="https://linkedin.com/in/juliocmxavier">
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=LinkedIn&message=Connect&logo=linkedin&logoColor=D9E0EE&colorA=302D41&colorB=7287fd"/>
 	</a>
-	<a href="https://x.com/Superp0sition">
+	<a href="https://x.com/Superp0sit1on">
 		<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=Twitter&message=Follow&logo=twitter&logoColor=d9e0ee&colorA=363a4f&colorB=209fb5"/>
 	</a>
 </h6>
