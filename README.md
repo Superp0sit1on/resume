@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <img src="SCREENSHOT.png" alt="Preview of the English resume on Microsoft Word">
+    <img src="SCREENSHOT.webp" alt="Preview of the English resume on Microsoft Word">
 </p>
 
 &nbsp;
