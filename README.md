@@ -12,17 +12,14 @@
 	<a href="https://linkedin.com/in/juliocmxavier">
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=LinkedIn&message=Connect&logo=linkedin&logoColor=D9E0EE&colorA=302D41&colorB=7287fd"/>
 	</a>
-	<a href="https://x.com/Superp0sit1on">
-		<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=Twitter&message=Follow&logo=twitter&logoColor=d9e0ee&colorA=363a4f&colorB=209fb5"/>
-	</a>
 </h6>
 
 <p align="center">
-    My professional resume with templates both in 🇺🇸 and 🇧🇷
+    Professional resume with templates both in English and Brazilian Portuguese.
 </p>
 
 <p align="center">
-    <img src="SCREENSHOT.png" alt="Preview of the english resume">
+    <img src="SCREENSHOT.png" alt="Preview of the English resume on Microsoft Word">
 </p>
 
 &nbsp;
@@ -49,7 +46,7 @@
 		Júlio Martins
 	</a>
 <p align="center">
-	<a href="https://github.com/Superp0sit1on/repo-template/blob/main/LICENSE">
+	<a href="https://github.com/Superp0sit1on/resume/blob/main/LICENSE">
 		<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/>
 	</a>
 </p>
